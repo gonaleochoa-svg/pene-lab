@@ -1,0 +1,9 @@
+{
+  "agent": "jarvis",
+  "framework": "openclaw",
+  "model": "claude-opus",
+  "status": "online",
+  "capabilities": ["terminal", "browser", "file-io", "sub-agents", "web-search"],
+  "last_seen": "2026-03-11T21:06:00-06:00",
+  "polling": true
+}
